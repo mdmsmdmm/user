@@ -1,0 +1,7 @@
+environs
+psutil
+aiohttp
+validators
+aiofile
+GitPython
+tgcrypto
